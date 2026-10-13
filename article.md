@@ -1,4 +1,5 @@
 # What Determines the Quality of an FPV Motor?
+[FPV Motor Quality Cover](cover.png)
 
 An FPV motor’s quality is determined by much more than its appearance, size, or rated power. Performance, efficiency, durability, and reliability depend on the materials used, the precision of manufacturing, and how well the components work together.
 
@@ -40,7 +41,7 @@ Precise stamping, clean lamination edges, and consistent stacking are also impor
 
 ## 3. Windings: Electrical Resistance, Power Delivery, and Heat
 
-![article image 1](assets/article-image-1.png)
+![article image 1](article-image-1.png)
 
 The stator windings carry current and generate the magnetic field that interacts with the rotor magnets. Their material, dimensions, insulation, and winding arrangement directly influence motor performance.
 
@@ -66,7 +67,7 @@ Reliable insulation is essential because excessive heat, abrasion, or manufactur
 
 ## 4. Bearings: Smooth Rotation and Mechanical Reliability
 
-![article image 2](assets/article-image-2.jpg)
+![article image 2](article-image-2.jpg)
 
 **T-HOBBY F60 PROV Motor Bearing**
 
@@ -124,7 +125,7 @@ Thrust and current measurements taken under controlled conditions can help compa
 
 Thermal performance should therefore be assessed under clearly defined test conditions, including voltage, propeller, throttle or load, test duration, and cooling environment.
 
-![article image 3](assets/article-image-3.jpg)
+![article image 3](article-image-3.jpg)
 
 *Images are for reference only. Please refer to the actual product.*
 
