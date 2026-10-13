@@ -1,5 +1,5 @@
 # What Determines the Quality of an FPV Motor?
-![FPV Motor Quality Cover](./cover.png
+![FPV Motor Quality Cover](./cover.png)
 
 An FPV motor’s quality is determined by much more than its appearance, size, or rated power. Performance, efficiency, durability, and reliability depend on the materials used, the precision of manufacturing, and how well the components work together.
 
